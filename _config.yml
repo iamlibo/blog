@@ -142,6 +142,6 @@ backup:
     type: git
     theme: next,yilia
     repository:
-       github: https://github.com/iamlibo/blog.git,master
+      #  github: https://github.com/iamlibo/blog.git,master
        gitee: https://gitee.com/dadaoziran/blog.git,master
        #gitcafe: git@github.com:xxx/xxx.git,branchName
