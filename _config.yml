@@ -16,7 +16,7 @@ avatar: /images/default_avatar.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://www.51liveup.cn
+url: http://blog.51liveup.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -109,7 +109,7 @@ deploy:
   type: 'git'
   repo:
     github: https://github.com/iamlibo/iamlibo.github.io.git
-
+  
 # Social links
 social:
   #github: https://github.com/your-user-name
@@ -142,6 +142,6 @@ backup:
     type: git
     theme: next,yilia
     repository:
-      #  github: https://github.com/iamlibo/blog.git,master
-      github: https://gitee.com/dadaoziran/blog.git,master
-       #gitcafe: git@github.com:xxx/xxx.git,branchName
+      github: https://github.com/iamlibo/blog.git,master
+      # github: https://gitee.com/dadaoziran/blog.git,master
+      # gitcafe: git@github.com:xxx/xxx.git,branchName
